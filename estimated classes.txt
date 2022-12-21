@@ -1,0 +1,8 @@
+interface, abstraction-1
+encapsulation-1
+array-3
+exception-2
+multi threading-2
+jdbc crud application-5
+collection framework-7-10
+

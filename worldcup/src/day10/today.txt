@@ -1,0 +1,11 @@
+Inheritance in Detail.
+
+
+Polymorphism in detail.4
+
+
+Final keyword and this keyword.
+
+Final class  -> We cannot extend the final class.
+Final Variable -> We cannot change the value of a variable
+Final methods -> We cannot ovverride the method
